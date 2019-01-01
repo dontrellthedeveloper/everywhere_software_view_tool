@@ -2,8 +2,6 @@
 
 > Various view specific methods for applications I use.
 
-TODO: Delete this and the text above, and describe your gem
-
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -22,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+EverywhereSoftwareViewTool::Renderer.copyright 'Everywhere Software', 'All rights reserved'
+```
 
 ## Development
 
